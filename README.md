@@ -10,6 +10,11 @@
   </a>
 </p>
 
+<!-- ✅ Location Added Here -->
+<p align="center">
+  <img src="https://img.shields.io/badge/📍%20Dhaka%2C%20Bangladesh-00FF41?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=111111" alt="Location" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
@@ -17,7 +22,7 @@
 - 🌱 Working on a **Tourism Website** with modern UI/UX
 - 👯 Looking to collaborate on open-source projects
 - ⚡ Fun fact: I enjoy solving algorithmic problems and contributing to tech communities
-
+- 📍 Based in **Dhaka, Bangladesh**
 
 ## 🧠 My Focus Areas
 - Web Development
@@ -28,7 +33,6 @@
 - Data Analysis
 - App Development
 - Game Development
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -44,9 +48,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=anim710&theme=dark&radius=10" alt="anim710's Activity Graph" />
 </p>
 
-
 ## 🛠️ Languages & Tools
-
 > ## Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
 
